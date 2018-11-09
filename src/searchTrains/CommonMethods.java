@@ -12,6 +12,7 @@ public class CommonMethods {
 	
 	static{
 		System.setProperty("webdriver.chrome.driver", "D:\\chrome driver\\chromedriver_win32\\chromedriver.exe");
+		System.out.println("");
 	}
 	WebDriver driver;
 
