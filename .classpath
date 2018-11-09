@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/chrome driver/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/chrome driver/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/chrome driver/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/chrome driver/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="D:/chrome driver/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/acer/Downloads/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/acer/Downloads/testng-6.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/vyshak/vyshak/eclipse-jee-luna-R-win32/eclipse/plugins/com.beust.jcommander.source_1.72.0.jar"/>
+	<classpathentry kind="lib" path="D:/vyshak/vyshak/eclipse-jee-luna-R-win32/eclipse/plugins/com.beust.jcommander_1.72.0.jar"/>
+	<classpathentry kind="lib" path="D:/vyshak/vyshak/eclipse-jee-luna-R-win32/eclipse/plugins/org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="D:/vyshak/vyshak/eclipse-jee-luna-R-win32/eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="D:/vyshak/vyshak/eclipse-jee-luna-R-win32/eclipse/plugins/org.testng.eclipse.maven_6.14.0.201802161500.jar"/>
+	<classpathentry kind="lib" path="D:/vyshak/vyshak/eclipse-jee-luna-R-win32/eclipse/plugins/org.testng.eclipse_6.14.0.201802161500.jar"/>
+	<classpathentry kind="lib" path="D:/vyshak/vyshak/eclipse-jee-luna-R-win32/eclipse/plugins/org.testng.source_6.14.2.r201802161450.jar"/>
+	<classpathentry kind="lib" path="D:/vyshak/vyshak/eclipse-jee-luna-R-win32/eclipse/plugins/org.testng_6.14.2.r201802161450.jar"/>
+	<classpathentry kind="lib" path="D:/vyshak/vyshak/eclipse-jee-luna-R-win32/eclipse/plugins/org.yaml.snakeyaml.source_1.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/vyshak/vyshak/eclipse-jee-luna-R-win32/eclipse/plugins/org.yaml.snakeyaml_1.17.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
